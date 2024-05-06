@@ -28,6 +28,4 @@ function addGameCard(imgSrc, gameName, description, buttonLink) {
     gamesSection.appendChild(card);
 }
 
-addGameCard('game1.jpg', 'Game 1', 'Description of Game 1', 'game1.html');
-addGameCard('game2.jpg', 'Game 2', 'Description of Game 2', 'game2.html');
-addGameCard('game3.jpg', 'Game 3', 'Description of Game 3', 'game3.html');
+addGameCard('game1.jpg', 'Idle Meme', 'IdleMeme is a clicker', 'https://idlememe.vercel.app/');
